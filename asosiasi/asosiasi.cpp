@@ -16,3 +16,21 @@ public:
 	void tambahDokter(dokter*);
 	void cetakDokter();
 };
+
+class dokter {
+public:
+	string nama;
+	vector<pasien*> daftar - pasien;
+
+	dokter(string pNama) : nama(pNama) {
+		cout << "Dokter \"" << nama << "\"ada\n";
+	}
+	~dokter() {
+		cout << "dokter \"" << nama << "\" tidak ada\n";
+	}
+	~dokter() {
+		cout << "dokter \"" << nama << "\" tidak ada\n";
+	}
+	void tambahpasien(pasien*);
+	void cetakpasien();
+};
