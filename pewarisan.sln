@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA", "mainIA\mainIA.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainJM", "mainJM\mainJM.vcxproj", "{EC6CD6EA-71CB-4280-943D-729C2805B0AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memberinitlist", "memberinitlist\memberinitlist.vcxproj", "{EEA2E490-5724-4D46-B071-66D1E694944C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{EC6CD6EA-71CB-4280-943D-729C2805B0AB}.Release|x64.Build.0 = Release|x64
 		{EC6CD6EA-71CB-4280-943D-729C2805B0AB}.Release|x86.ActiveCfg = Release|Win32
 		{EC6CD6EA-71CB-4280-943D-729C2805B0AB}.Release|x86.Build.0 = Release|Win32
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Debug|x64.ActiveCfg = Debug|x64
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Debug|x64.Build.0 = Debug|x64
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Debug|x86.Build.0 = Debug|Win32
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Release|x64.ActiveCfg = Release|x64
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Release|x64.Build.0 = Release|x64
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Release|x86.ActiveCfg = Release|Win32
+		{EEA2E490-5724-4D46-B071-66D1E694944C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
